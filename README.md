@@ -1,1 +1,2 @@
-# cpp_chat_session
+# cpp_chatroom
+A socket-based chat app
