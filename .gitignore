@@ -1,7 +1,8 @@
 # Prerequisites
 .DS_Store
 *.d
-
+coverage
+/coverage
 # Compiled Object files
 *.slo
 *.lo
